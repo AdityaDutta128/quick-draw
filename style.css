@@ -1,0 +1,39 @@
+body {
+    background-color:lightgreen;
+}
+
+p,span{
+    padding-top:10px;
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif
+
+
+}
+
+#score {
+    font-size: 25px;
+    margin-left:20px;
+}
+
+#time {
+    font-size: 25px;
+    float:right;
+    margin-right: 25px;
+}
+
+
+h1 { 
+    font-family: 'Special Elite', fantasy; 
+    color:rgb(38, 0, 255); 
+    background-color: cornsilk; } 
+
+
+
+#sketch_name { 
+    color:red;
+ } 
+
+
+#show_sketch { 
+    float:right; 
+}
